@@ -1,12 +1,4 @@
-COMPANY : CODTECH IT SOLUTION
 
-NAME : PUNEETH H LAMANI
-
-DOMAIN : DATA ANALYST INTERN
-
-DURATION : 4 WEEKS
-
-MENTOR : NEELA SANTOSH
 
 # Sentiment Analysis of Amazon Reviews Using NLP and Data Visualization
 # Introduction
